@@ -1,0 +1,7 @@
+platform :ios, '13.0' # or your minimum deployment target
+use_frameworks!
+
+target 'TodoeySuperClass' do
+  pod 'ChameleonFramework/Swift'
+end
+
